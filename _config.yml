@@ -3,7 +3,6 @@ title: MarmelAda website - cyclistic dataset
 description: Data story for group project on cyclistic dataset
 show_downloads: True
 navigation:
-  - title: Home
-    url: /
-  - title: Example
-    url: example
+  - title: Brouillon
+    url: brouillon.md
+  
