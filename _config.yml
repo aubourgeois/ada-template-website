@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+title: MarmelAda website - cyclistic dataset
+description: Data story for group project on cyclistic dataset
 show_downloads: True
 navigation:
   - title: Home
