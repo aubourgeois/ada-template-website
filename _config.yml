@@ -5,4 +5,6 @@ show_downloads: True
 navigation:
   - title: Brouillon
     url: /brouillon.html
+  - title: Suite
+    url: /suite_brouillon.html
   
