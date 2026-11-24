@@ -3,8 +3,8 @@ title: MarmelAda website - cyclistic dataset
 description: Data story for group project on cyclistic dataset
 show_downloads: True
 navigation:
-  - title: Brouillon
-    url: /brouillon.html
+  - title: Home
+    url: /home.html
   - title: Optimization
     url: /optimization.html
   - title: Infrastructure 
